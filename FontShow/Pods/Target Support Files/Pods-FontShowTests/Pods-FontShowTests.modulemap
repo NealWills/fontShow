@@ -1,0 +1,6 @@
+framework module Pods_FontShowTests {
+  umbrella header "Pods-FontShowTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
